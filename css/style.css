@@ -1,0 +1,58 @@
+body {
+    background-image: url(../Image/www.jpg);
+  height: 185vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+h1 {
+  color: rgb(255, 255, 255);
+  margin-left: 630px;
+  font-size: 60px;
+}
+.button-class{
+  font-size: 20px;
+  margin-left: 750px;
+}
+
+.form-class {
+  height:260px;
+  width: 320px;
+  color: #ffff;
+  background-color: rgb(135, 134, 129);
+  margin-left: 620px;
+}
+
+.button2 {
+ margin-left: 90px;
+}
+
+table {
+  margin-right: 100px;
+  height: 100px;
+  width: 500px;
+  color: white;
+  background-color: rgb(135, 134, 129);
+}
+
+.photo{
+  height: 50px;
+  width: 50px;
+}
+
+.khareeta {
+margin-top: 280px;
+margin-left: 520px;
+}
+
+.links-class {
+  margin-left: 750px;
+}
+
+
+
+.ibm-plex-sans-arabic-regular {
+    font-family: "IBM Plex Sans Arabic", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
